@@ -1,0 +1,15 @@
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.csproj.AssemblyReference.cache
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfoInputs.cache
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfo.cs
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.csproj.CoreCompileInputs.cache
+C:\Users\agolo\Desktop\Практическая8\Задача56\bin\Debug\net6.0\Задача56.exe
+C:\Users\agolo\Desktop\Практическая8\Задача56\bin\Debug\net6.0\Задача56.deps.json
+C:\Users\agolo\Desktop\Практическая8\Задача56\bin\Debug\net6.0\Задача56.runtimeconfig.json
+C:\Users\agolo\Desktop\Практическая8\Задача56\bin\Debug\net6.0\Задача56.dll
+C:\Users\agolo\Desktop\Практическая8\Задача56\bin\Debug\net6.0\Задача56.pdb
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.dll
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\refint\Задача56.dll
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.pdb
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\Задача56.genruntimeconfig.cache
+C:\Users\agolo\Desktop\Практическая8\Задача56\obj\Debug\net6.0\ref\Задача56.dll
